@@ -1,0 +1,25 @@
+# VSCode
+.vscode/
+.vscode/extensions/
+
+# Node / npm
+node_modules/
+
+# Python / Anaconda
+.anaconda/
+.conda/
+.condarc/
+.continuum/
+__pycache__/
+
+# Logs e temporários
+*.log
+*.tmp
+
+# Evitar arquivos do Windows
+AppData/
+NTUSER.DAT*
+Cookies/
+Downloads/
+Favorites/
+OneDrive/
